@@ -1,0 +1,50 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 1.85rem;
+
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 20px;
+    padding: 2% 0 4% 0; 
+}
+
+.attribution {
+    width: 100%;
+    text-align: center;
+    margin-top: 6%;
+    display: inline-block;
+}
+
+.content {
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    max-width: 400px;
+    padding: 10px;
+    margin: 7% auto 0;
+
+}
+
+.large-div {
+    /**/
+    border-radius: 15px;
+    border-style: none;
+    background-color: white;
+    padding: 5%;
+}
+
+.qr-image {
+    border-radius: 10px;
+    max-width: 100%;
+    border-style: none;
+}
